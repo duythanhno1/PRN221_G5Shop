@@ -1,0 +1,15 @@
+D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\bin\Debug\net6.0\BAL.deps.json
+D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\bin\Debug\net6.0\BAL.dll
+D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\bin\Debug\net6.0\BAL.pdb
+D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\bin\Debug\net6.0\DAL.dll
+D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\bin\Debug\net6.0\DAL.pdb
+D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.csproj.AssemblyReference.cache
+D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.csproj.CopyComplete
+D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.dll
+D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\refint\BAL.dll
+D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.pdb
+D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\ref\BAL.dll

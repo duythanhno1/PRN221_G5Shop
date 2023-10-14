@@ -1,0 +1,112 @@
+﻿@using Newtonsoft.Json;
+@model PRN221_MVC.Models.CheckoutViewModel
+@{
+    ViewData["Title"] = "CheckOut";
+    Layout = "~/Views/Shared/LayoutClient.cshtml";
+}
+<div class="breadbg">
+    <div class="container">
+        <div class="row">
+            <ul class="breadcrumb">
+                <li><a href="@Url.Action("Index", "Home")"><i class="fa fa-home"></i></a></li>
+                <li><a href="@Url.Action("Index", "Cart")">Shopping Cart</a></li>
+                <li><a href="@Url.Action("Checkout", "Transaction")">Checkout</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div id="checkout-checkout" class="container">
+    <div class="row">
+        <div id="content" class="col-xs-12 acpage">
+            <div class="infobg">
+                <h1>Checkout</h1>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <fieldset id="account">
+                            <legend>Your Personal Details</legend>
+                            <div class="form-group required">
+                                <label class="control-label" for="input-payment-name">Name</label>
+                                <input type="text" value="@Model.Account.Name" placeholder="Your Name" id="input-payment-name" class="form-control">
+                            </div>
+                            <div class="form-group required">
+                                <label class="control-label" for="input-payment-email">E-Mail</label>
+                                <input type="text" name="email" value="@Model.Account.Email" placeholder="E-Mail" id="input-payment-email" class="form-control">
+                            </div>
+                        </fieldset>
+                    </div>
+                    <div class="col-sm-6">
+                        <fieldset id="address" class="required">
+                            <legend>Your Address</legend>
+                            <div class="form-group required">
+                                <label class="control-label" for="input-payment-address">Address</label>
+                                <input type="text" name="address" value="@Model.Account.Address" placeholder="Address" id="input-payment-address" class="form-control">
+                            </div>
+                        </fieldset>
+                    </div>
+                </div>
+
+                <fieldset id="paymentmethod" class="required">
+                    <legend>Select Payment Method</legend>
+                    <p>Please select the preferred payment method to use on this order.</p>
+                    <div class="radio">
+                        <label>
+                            <input type="radio" name="payment_method" value="cod" checked="checked">
+                            Cash On Delivery
+                        </label>
+                    </div>
+                </fieldset>
+                <fieldset id="table-order">
+                    <legend>Order Detail</legend>
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-hover">
+                            <thead>
+                                <tr>
+                                    <td class="text-left">Product Name</td>
+                                    @*<td class="text-left">Model</td>*@
+                                    <td class="text-right">Quantity</td>
+                                    <td class="text-right">Unit Price</td>
+                                    <td class="text-right">Total</td>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @{
+                                    var total = 0.0f;
+                                }
+                                @foreach (var od in Model.OrderDetails)
+                                {
+                                    var itemTotal = od.Quantity * od.UnitPrice;
+                                    <tr>
+                                        <td class="text-left">@od.Name</td>
+                                        @*<td class="text-left"></td>*@
+                                        <td class="text-right">@od.Quantity</td>
+                                        <td class="text-right">@("$" + od.UnitPrice.ToString("0.00"))</td>
+                                        <td class="text-right">@("$" + itemTotal.ToString("0.00"))</td>
+                                    </tr>
+                                }
+                            </tbody>
+                            <tfoot>
+                                <tr>
+                                    <td colspan="4" class="text-right"><strong>Sub-Total:</strong></td>
+                                    <td class="text-right">@Model.Total.ToString("0.00")</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="4" class="text-right"><strong>VAT (10%):</strong></td>
+                                    <td class="text-right">@((Model.Total * 0.1).ToString("0.00"))</td>
+                                </tr>
+                                <tr>
+                                    <td colspan="4" class="text-right"><strong>Total:</strong></td>
+                                    <td class="text-right">@((Model.Total * 1.1).ToString("0.00"))</td>
+                                </tr>
+                            </tfoot>
+                        </table>
+
+                    </div>
+                </fieldset>
+                <div class="pull-right">
+                    <button type="button" id="button-confirm" data-loading-text="Loading..." class="btn btn-primary" onclick="checkout('@JsonConvert.SerializeObject(Model.OrderDetails)', @Model.Total)">Confirm Order</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="/client/custom/javascript/checkout.js"></script>

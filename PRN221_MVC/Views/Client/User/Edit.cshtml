@@ -1,0 +1,105 @@
+﻿@{
+    ViewData["Title"] = "User Detail";
+    Layout = "~/Views/Shared/LayoutClient.cshtml";
+}
+@model EditUserViewModel
+@using Microsoft.AspNetCore.Identity;
+<div class="breadbg">
+    <div class="container">
+        <div class="row">
+            <ul class="breadcrumb">
+                <li><a href="index9328.html?route=common/home"><i class="fa fa-home"></i></a></li>
+                <li><a href="@Url.Action("Detail","User")">Account</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div id="account-register" class="container acpage">
+    <div class="row">
+        <div id="content" class="col-sm-8 col-md-9 col-xs-12 colright">
+            <div class="infobg">
+                <h1>My Account</h1>
+
+                @{
+                    var errors = ViewData["error"] as List<IdentityError>;
+                    if (errors != null) {
+                        <ul class="text-danger">
+                            @foreach (var er in @ViewData["error"] as List<IdentityError>) {
+                                <li>@er.Description</li>
+                            }
+                        </ul>
+                    }
+                }
+
+                <form method="post" autocomplete="off" enctype="multipart/form-data" class="form-horizontal">
+                    <fieldset id="account">
+                        <legend>Your Personal Details</legend>
+                        <div class="form-group required">
+                            <label class="col-sm-3 col-xs-12 control-label" asp-for="Name">Name</label>
+                            <div class="col-sm-9 col-xs-12">
+                                <input type="text" name="name" asp-for="Name" placeholder="Name" id="input-name" class="form-control" />
+                            </div>
+                        </div>
+                        <input type="hidden" name="id" asp-for="Id" class="form-control" />
+                        <div class="form-group required">
+                            <label class="col-sm-3 col-xs-12 control-label" asp-for="Username">Username</label>
+                            <div class="col-sm-9 col-xs-12">
+                                <input type="text" name="username" asp-for="Username" placeholder="Username" id="input-username" class="form-control" />
+                            </div>
+                        </div>
+                        <div class="form-group required">
+                            <label class="col-sm-3 col-xs-12 control-label" asp-for="Email">E-Mail</label>
+                            <div class="col-sm-9 col-xs-12">
+                                <input readonly type="email" name="email" asp-for="Email" placeholder="E-Mail" id="input-email" class="form-control" />
+                            </div>
+                        </div>
+                        <div class="form-group required">
+                            <label class="col-sm-3 col-xs-12 control-label" asp-for="PhoneNumber">PhoneNumber</label>
+                            <div class="col-sm-9 col-xs-12">
+                                <input type="tel" name="phoneNumber" asp-for="PhoneNumber" placeholder="Phone Number" id="input-telephone" class="form-control" />
+                            </div>
+                        </div>
+                        <div class="form-group required">
+                            <label class="col-sm-3 col-xs-12 control-label" asp-for="DoB">Date of birth</label>
+                            <div class="col-sm-9 col-xs-12">
+                                <input type="date" name="doB" asp-for="DoB" placeholder="Birthday" class="form-control" />
+                            </div>
+                        </div>
+                         <div class="form-group required">
+                            <label class="col-sm-3 col-xs-12 control-label" asp-for="Address">Address</label>
+                            <div class="col-sm-9 col-xs-12">
+                                <input type="text" name="address" asp-for="Address" placeholder="Birthday" class="form-control" />
+                            </div>
+                        </div>
+                        <div class="form-group required">
+                            <label class="col-sm-3 col-xs-12 control-label">Gender</label>
+                            <div class="col-sm-9 col-xs-12">
+                                <label>@Html.RadioButtonFor(model => model.Gender, "Male", true) Male</label>
+                                <label>@Html.RadioButtonFor(model => model.Gender, "Female", false) Female</label>
+                            </div>
+                        </div>
+                    </fieldset>
+
+                    <div class="buttons">
+                        <div class="text-right acspace">
+                            <input class="btn btn-primary" type="submit" value="Edit" />
+                        </div>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+        <aside id="column-right" class="col-sm-4 col-md-3 col-xs-12 hidden-xs">
+            <div class="list-group accolumn">
+
+
+                <h3><svg class="" width="20px" height="20px"> <use xlink:href="#acluser"></use> </svg>ACCOUNT SETTINGS</h3>
+                <a href="@Url.Action("Login", "User")" class="list-group-item">Login</a>
+                <a href="@Url.Action("Register","User")" class="list-group-item">Register</a>
+                <a href="@Url.Action("ForgotPassword","User")" class="list-group-item">Forgot Password</a>
+                <a href="@Url.Action("Detail","User")" class="list-group-item">My Account</a>
+
+            </div>
+        </aside>
+    </div>
+</div>
