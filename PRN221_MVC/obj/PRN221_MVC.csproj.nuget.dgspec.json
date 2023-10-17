@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ky 7\\PRN221\\pj\\PRN221_MVC-master\\PRN221_MVC\\PRN221_MVC.csproj": {}
+    "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\PRN221_MVC\\PRN221_MVC.csproj": {}
   },
   "projects": {
-    "D:\\Ky 7\\PRN221\\pj\\PRN221_MVC-master\\BAL\\BAL.csproj": {
+    "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\BAL\\BAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ky 7\\PRN221\\pj\\PRN221_MVC-master\\BAL\\BAL.csproj",
+        "projectUniqueName": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\BAL\\BAL.csproj",
         "projectName": "BAL",
-        "projectPath": "D:\\Ky 7\\PRN221\\pj\\PRN221_MVC-master\\BAL\\BAL.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Ky 7\\PRN221\\pj\\PRN221_MVC-master\\BAL\\obj\\",
+        "projectPath": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\BAL\\BAL.csproj",
+        "packagesPath": "C:\\Users\\voduy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\BAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\voduy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Ky 7\\PRN221\\pj\\PRN221_MVC-master\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\Ky 7\\PRN221\\pj\\PRN221_MVC-master\\DAL\\DAL.csproj"
+              "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\DAL\\DAL.csproj"
               }
             }
           }
@@ -65,21 +65,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Ky 7\\PRN221\\pj\\PRN221_MVC-master\\DAL\\DAL.csproj": {
+    "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ky 7\\PRN221\\pj\\PRN221_MVC-master\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\Ky 7\\PRN221\\pj\\PRN221_MVC-master\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Ky 7\\PRN221\\pj\\PRN221_MVC-master\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\voduy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\voduy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -158,21 +158,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Ky 7\\PRN221\\pj\\PRN221_MVC-master\\PRN221_MVC\\PRN221_MVC.csproj": {
+    "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\PRN221_MVC\\PRN221_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ky 7\\PRN221\\pj\\PRN221_MVC-master\\PRN221_MVC\\PRN221_MVC.csproj",
+        "projectUniqueName": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\PRN221_MVC\\PRN221_MVC.csproj",
         "projectName": "PRN221_MVC",
-        "projectPath": "D:\\Ky 7\\PRN221\\pj\\PRN221_MVC-master\\PRN221_MVC\\PRN221_MVC.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Ky 7\\PRN221\\pj\\PRN221_MVC-master\\PRN221_MVC\\obj\\",
+        "projectPath": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\PRN221_MVC\\PRN221_MVC.csproj",
+        "packagesPath": "C:\\Users\\voduy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\PRN221_MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\voduy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -180,17 +180,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Ky 7\\PRN221\\pj\\PRN221_MVC-master\\BAL\\BAL.csproj": {
-                "projectPath": "D:\\Ky 7\\PRN221\\pj\\PRN221_MVC-master\\BAL\\BAL.csproj"
+              "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\BAL\\BAL.csproj": {
+                "projectPath": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\BAL\\BAL.csproj"
               },
-              "D:\\Ky 7\\PRN221\\pj\\PRN221_MVC-master\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\Ky 7\\PRN221\\pj\\PRN221_MVC-master\\DAL\\DAL.csproj"
+              "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\DAL\\DAL.csproj"
               }
             }
           }
@@ -265,7 +266,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

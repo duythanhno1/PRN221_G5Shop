@@ -13,3 +13,18 @@ D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.dll
 D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\refint\BAL.dll
 D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.pdb
 D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\ref\BAL.dll
+C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\bin\Debug\net6.0\BAL.deps.json
+C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\bin\Debug\net6.0\BAL.dll
+C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\bin\Debug\net6.0\BAL.pdb
+C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\bin\Debug\net6.0\DAL.dll
+C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\obj\Debug\net6.0\BAL.csproj.AssemblyReference.cache
+C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\obj\Debug\net6.0\BAL.csproj.CopyComplete
+C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\obj\Debug\net6.0\BAL.dll
+C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\obj\Debug\net6.0\refint\BAL.dll
+C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\obj\Debug\net6.0\BAL.pdb
+C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\obj\Debug\net6.0\ref\BAL.dll
