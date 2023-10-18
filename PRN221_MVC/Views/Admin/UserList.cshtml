@@ -1,17 +1,7 @@
-﻿ư@using DAL
-@model List<DAL.Entities.User>
+﻿@model List<DAL.Entities.User>
 @{
     ViewData["Title"] = "UserList";
     Layout = "~/Views/Shared/_Layout.cshtml";
-    string[] tableHeaders = new string[]
-    {
-    "Name",
-    "Date Of Birth",
-    "Address",
-    "Gender",
-    "Orders",
-    "Action"
-    };
 }
 <div class="page-wrapper">
     <!-- Top Bar Start -->
@@ -188,69 +178,272 @@
                         <table id="datatable" class="table table-bordered">
                             <thead>
                                 <tr>
-                                    @{
-                                        foreach (var head in tableHeaders)
-                                        {
-                                            <th>@head</th>
-                                        }
-                                    }
+                                    <th>Product Name</th>
+                                    <th>Category</th>
+                                    <th>Pics</th>
+                                    <th>Price</th>
+                                    <th>Status</th>
+                                    <th>Avai.Color</th>
+                                    <th>Action</th>
                                 </tr>
                             </thead>
                             <tbody>
-                                @{
-                                    if (Model != null)
-                                    {
-                                        foreach (var Data in Model)
-                                        {
-                                            if (Data.isDeleted == false)
-                                            {
-                                                <tr>
-                                                    <td>@Data.Name</td>
-                                                    <td>@Data.DoB</td>
-                                                    <td>@Data.Address</td>
-                                                    <td>
-                                                        @try
-                                                        {
-                                                            @if (Data.Gender.Equals("M") || Data.Gender.Equals("") || Data.Gender == null)
-                                                            {
-                                                                @Html.Raw("Male")
-                                                            }
-                                                            else if (Data.Gender.Equals("F"))
-                                                            {
-                                                                @Html.Raw("FeMale")
-                                                            }
+                                <tr>
+                                    <td>
+                                        <img src="assets/images/products/img-1.png" alt="" height="40">
+                                        <p class="d-inline-block align-middle mb-0">
+                                            <a href="#" class="d-inline-block align-middle mb-0 product-name">
+                                                @foreach (var item in Model)
+                                                {
+                                                    @item.Name
+                                                }
+                                            </a>
+                                            <br>
+                                            <span class="text-muted font-13">size-08 (Model 2020)</span>
+                                        </p>
+                                    </td>
+                                    <td>Sports</td>
+                                    <td>32</td>
+                                    <td>$39</td>
+                                    <td><span class="badge badge-soft-warning">Stock</span></td>
+                                    <td>
+                                        <ul class="list-inline mb-0">
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-success"></i></li>
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-pink"></i></li>
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-info"></i></li>
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-warning"></i></li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <a href="#"><i class="las la-pen text-secondary font-16"></i></a>
+                                        <a href="#"><i class="las la-trash-alt text-secondary font-16"></i></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img src="assets/images/products/img-2.png" alt="" height="40">
+                                        <p class="d-inline-block align-middle mb-0">
+                                            <a href="#" class="d-inline-block align-middle mb-0 product-name">Apple Watch</a>
+                                            <br>
+                                            <span class="text-muted font-13">40mm & 44mm case size</span>
+                                        </p>
+                                    </td>
+                                    <td>Interior</td>
+                                    <td>10</td>
+                                    <td>$99</td>
+                                    <td><span class="badge badge-soft-pink">Sold</span></td>
+                                    <td>
+                                        <ul class="list-inline mb-0">
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-pink"></i></li>
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-info"></i></li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <a href="#"><i class="las la-pen text-secondary font-16"></i></a>
+                                        <a href="#"><i class="las la-trash-alt text-secondary font-16"></i></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img src="assets/images/products/03.png" alt="" height="40">
+                                        <p class="d-inline-block align-middle mb-0">
+                                            <a href="#" class="d-inline-block align-middle mb-0 product-name">Dastone Gear SM-R322</a>
+                                            <br>
+                                            <span class="text-muted font-13">Super AMOLED display</span>
+                                        </p>
+                                    </td>
+                                    <td>Footwear</td>
+                                    <td>24</td>
+                                    <td>$49</td>
+                                    <td><span class="badge badge-soft-secondary">Stock</span></td>
+                                    <td>
+                                        <ul class="list-inline mb-0">
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-success"></i></li>
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-info"></i></li>
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-warning"></i></li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <a href="#"><i class="las la-pen text-secondary font-16"></i></a>
+                                        <a href="#"><i class="las la-trash-alt text-secondary font-16"></i></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img src="assets/images/products/04.png" alt="" height="40">
+                                        <p class="d-inline-block align-middle mb-0">
+                                            <a href="#" class="d-inline-block align-middle mb-0 product-name">Dastone Washable Face Masks</a>
+                                            <br>
+                                            <span class="text-muted font-13">Gives germs protection</span>
+                                        </p>
+                                    </td>
+                                    <td>Sports</td>
+                                    <td>8</td>
+                                    <td>$49</td>
+                                    <td><span class="badge badge-soft-secondary">Stock</span></td>
+                                    <td>
+                                        <ul class="list-inline mb-0">
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-success"></i></li>
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-warning"></i></li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <a href="#"><i class="las la-pen text-secondary font-16"></i></a>
+                                        <a href="#"><i class="las la-trash-alt text-secondary font-16"></i></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img src="assets/images/products/01.png" alt="" height="40">
+                                        <p class="d-inline-block align-middle mb-0">
+                                            <a href="#" class="d-inline-block align-middle mb-0 product-name">Dastone 360° 1080p Full HD</a>
+                                            <br>
+                                            <span class="text-muted font-13">Day-Night Vision</span>
+                                        </p>
+                                    </td>
+                                    <td>Life Style</td>
+                                    <td>52</td>
+                                    <td>$89</td>
+                                    <td><span class="badge badge-soft-purple">Stock</span></td>
+                                    <td>
+                                        <ul class="list-inline mb-0">
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-pink"></i></li>
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-info"></i></li>
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-warning"></i></li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <a href="#"><i class="las la-pen text-secondary font-16"></i></a>
+                                        <a href="#"><i class="las la-trash-alt text-secondary font-16"></i></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img src="assets/images/products/06.png" alt="" height="40">
+                                        <p class="d-inline-block align-middle mb-0">
+                                            <a href="#" class="d-inline-block align-middle mb-0 product-name">New Morden Chair</a>
+                                            <br>
+                                            <span class="text-muted font-13">size-05 (Model 2019)</span>
+                                        </p>
+                                    </td>
+                                    <td>Interior</td>
+                                    <td>6</td>
+                                    <td>$20</td>
+                                    <td><span class="badge badge-soft-warning">Stock</span></td>
+                                    <td>
+                                        <ul class="list-inline mb-0">
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-success"></i></li>
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-pink"></i></li>
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-warning"></i></li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <a href="#"><i class="las la-pen text-secondary font-16"></i></a>
+                                        <a href="#"><i class="las la-trash-alt text-secondary font-16"></i></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img src="assets/images/products/05.png" alt="" height="40">
+                                        <p class="d-inline-block align-middle mb-0">
+                                            <a href="#" class="d-inline-block align-middle mb-0 product-name">Dastone Fever Gun</a>
+                                            <br>
+                                            <span class="text-muted font-13">Used for Baby and Adult</span>
+                                        </p>
+                                    </td>
+                                    <td>Interior</td>
+                                    <td>32</td>
+                                    <td>$39</td>
+                                    <td><span class="badge badge-soft-warning">Stock</span></td>
+                                    <td>
+                                        <ul class="list-inline mb-0">
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-success"></i></li>
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-pink"></i></li>
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-info"></i></li>
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-warning"></i></li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <a href="#"><i class="las la-pen text-secondary font-16"></i></a>
+                                        <a href="#"><i class="las la-trash-alt text-secondary font-16"></i></a>
+                                    </td>
+                                </tr>
 
-                                                        }catch
-                                                        {
-                                                            @Html.Raw("Male")
-                                                        }
-                                                    </td>
-                                                    <td>
-                                                        @if (Data.Orders.Where(x=>x.UserId == Data.Id).Count() == 0)
-                                                        {
-                                                            @Html.Raw("This user doesn't have any order yet.")
-                                                        }
-                                                        else
-                                                        {
-                                                            @Html.Raw("This user has " + Data.Orders.Where(x=>x.UserId == Data.Id).Count() + " order(s).")
-                                                        }
-                                                    </td>
-                                                    <td>
-                                                        <a href="@Url.Action("UserDetail","Admin",new{id=Data.Id})" class="btn btn-sm btn-outline-primary">View</a>
-                                                        <span id="confirmDeleteSpan_@Data.Id" style="display:none">
-                                                            <span>Are you sure you want to delete?</span>
-                                                            <a href="@Url.Action("Delete","Admin",new{id=Data.Id})" class="btn btn-sm btn-outline-primary">Yes</a>
-                                                            <button type="button" class="btn btn-sm btn-outline-primary" onclick="confirmDelete('@Data.Id',false)">No</button>
-                                                        </span>
-                                                        <span id="deleteSpan_@Data.Id">
-                                                            <button type="button" class="btn btn-sm btn-outline-primary" onclick="confirmDelete('@Data.Id',true)">Delete</button>
-                                                        </span>
-                                                        </td>
-                                                </tr>
-                                            }
-                                        }
-                                    }
-                                }
+                                <tr>
+                                    <td>
+                                        <img src="assets/images/products/02.png" alt="" height="40">
+                                        <p class="d-inline-block align-middle mb-0">
+                                            <a href="#" class="d-inline-block align-middle mb-0 product-name">Nike Air Max 101</a>
+                                            <br>
+                                            <span class="text-muted font-13">Size-05 to 13 (Model 2020)</span>
+                                        </p>
+                                    </td>
+                                    <td>Sports</td>
+                                    <td>32</td>
+                                    <td>$39</td>
+                                    <td><span class="badge badge-soft-warning">Stock</span></td>
+                                    <td>
+                                        <ul class="list-inline mb-0">
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-success"></i></li>
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-info"></i></li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <a href="#"><i class="las la-pen text-secondary font-16"></i></a>
+                                        <a href="#"><i class="las la-trash-alt text-secondary font-16"></i></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img src="assets/images/products/img-5.png" alt="" height="40">
+                                        <p class="d-inline-block align-middle mb-0">
+                                            <a href="#" class="d-inline-block align-middle mb-0 product-name">American Bag</a>
+                                            <br>
+                                            <span class="text-muted font-13">size-08 (Model 2020)</span>
+                                        </p>
+                                    </td>
+                                    <td>Sports</td>
+                                    <td>32</td>
+                                    <td>$39</td>
+                                    <td><span class="badge badge-soft-warning">Stock</span></td>
+                                    <td>
+                                        <ul class="list-inline mb-0">
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-success"></i></li>
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-pink"></i></li>
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-info"></i></li>
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-warning"></i></li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <a href="#"><i class="las la-pen text-secondary font-16"></i></a>
+                                        <a href="#"><i class="las la-trash-alt text-secondary font-16"></i></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img src="assets/images/products/img-3.png" alt="" height="40">
+                                        <p class="d-inline-block align-middle mb-0">
+                                            <a href="#" class="d-inline-block align-middle mb-0 product-name">Sneakers shoes</a>
+                                            <br>
+                                            <span class="text-muted font-13">Size-05 to 13 (Model 2020)</span>
+                                        </p>
+                                    </td>
+                                    <td>Interior</td>
+                                    <td>10</td>
+                                    <td>$99</td>
+                                    <td><span class="badge badge-soft-pink">Sold</span></td>
+                                    <td>
+                                        <ul class="list-inline mb-0">
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-pink"></i></li>
+                                            <li class="list-inline-item align-middle"><i class="fas fa-circle text-info"></i></li>
+                                        </ul>
+                                    </td>
+                                    <td>
+                                        <a href="#"><i class="las la-pen text-secondary font-16"></i></a>
+                                        <a href="#"><i class="las la-trash-alt text-secondary font-16"></i></a>
+                                    </td>
+                                </tr>
+
                             </tbody>
                         </table>
                     </div>
@@ -269,19 +462,4 @@
     </div>
     <!-- end page content -->
 </div>
-<!-- Related Product-->
-<script type="text/javascript"> // Used to appear warning when delete an account
-    function confirmDelete(uniqueId, isDeleteClicked) {
-        var deleteSpan = 'deleteSpan_' + uniqueId;
-        var confirmDeleteSpan = 'confirmDeleteSpan_' + uniqueId;
-
-        if (isDeleteClicked) {
-            $('#' + deleteSpan).hide();
-            $('#' + confirmDeleteSpan).show();
-        } else {
-            $('#' + deleteSpan).show();
-            $('#' + confirmDeleteSpan).hide();
-        }
-    }
-</script>
 
