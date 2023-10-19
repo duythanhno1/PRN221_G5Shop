@@ -90,7 +90,8 @@ namespace PRN221_MVC.Controllers {
                     if (appUser != null) {
                         var role = await _userManager.GetRolesAsync(appUser);
 
-                        var matchingRole = roles.FirstOrDefault(r => role.Contains(r.Name)).Name;
+                        var matchingRole = roles.FirstOrDefault(r => role.Contains(r.Name))?.Name;
+
 
                         await signInManager.SignOutAsync();
                         Microsoft.AspNetCore.Identity.SignInResult result = await signInManager.PasswordSignInAsync(appUser, login.Password, false, false);

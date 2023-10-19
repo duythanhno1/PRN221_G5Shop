@@ -349,22 +349,22 @@ namespace DAL.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "e764e7c4-4328-49c9-9564-6590f0163208",
-                            ConcurrencyStamp = "55ce942a-32d9-4858-8a01-29ec8bc96d1b",
+                            Id = "a512b486-7d22-4988-afa7-36b594ae1624",
+                            ConcurrencyStamp = "0ac67de2-b751-4277-a0ad-3c7b4fb4d518",
                             Name = "ShopOwner",
                             NormalizedName = "SHOPOWNER"
                         },
                         new
                         {
-                            Id = "6ccbba7d-19b5-4126-b0fc-71482956ecde",
-                            ConcurrencyStamp = "946fe466-0d55-43ee-9c5a-9a63aa5c7d01",
+                            Id = "673e3a95-8fab-4624-a5b1-094634b91760",
+                            ConcurrencyStamp = "5e04773f-94b2-4376-b4b4-a9c1a8439a4a",
                             Name = "Customer",
                             NormalizedName = "CUSTOMER"
                         },
                         new
                         {
-                            Id = "0a5059de-0e1a-4254-870c-9d44bf933f3b",
-                            ConcurrencyStamp = "a94e1ea6-442d-4102-b73e-dfd51f8993e7",
+                            Id = "2c2ff375-55fd-41bf-be0f-f0450b1717a3",
+                            ConcurrencyStamp = "b931f341-3e5a-47e7-bca9-a0a93325eadd",
                             Name = "Administrator",
                             NormalizedName = "ADMINISTRATOR"
                         });

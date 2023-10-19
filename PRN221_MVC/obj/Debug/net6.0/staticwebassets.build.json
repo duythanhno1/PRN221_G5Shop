@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5vkP5kGZ31cpwbpH3/hR+G0N9SuexV401c8/KBsuhqk=",
+  "Hash": "Szq4qgsHIeggjqjHuXlOvsfaUM2d/No9cghTJ9pkV6A=",
   "Source": "PRN221_MVC",
   "BasePath": "_content/PRN221_MVC",
   "Mode": "Default",
@@ -1613,6 +1613,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\PRN221_MVC\\wwwroot\\admin\\assets\\images\\favicon.png",
+      "SourceId": "PRN221_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\PRN221_MVC\\wwwroot\\",
+      "BasePath": "_content/PRN221_MVC",
+      "RelativePath": "admin/assets/images/favicon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin\\assets\\images\\favicon.png"
     },
     {
       "Identity": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\PRN221_MVC\\wwwroot\\admin\\assets\\images\\logo.png",
@@ -9076,6 +9093,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\client\\image\\catalog\\loader.gif"
+    },
+    {
+      "Identity": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\PRN221_MVC\\wwwroot\\client\\image\\catalog\\logo.png",
+      "SourceId": "PRN221_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\PRN221_MVC\\wwwroot\\",
+      "BasePath": "_content/PRN221_MVC",
+      "RelativePath": "client/image/catalog/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\client\\image\\catalog\\logo.png"
     },
     {
       "Identity": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\PRN221_MVC\\wwwroot\\client\\image\\catalog\\logo1.png",

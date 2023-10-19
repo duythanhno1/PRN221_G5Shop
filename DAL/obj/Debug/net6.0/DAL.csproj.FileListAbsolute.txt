@@ -1,17 +1,17 @@
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\DAL\bin\Debug\net6.0\DAL.deps.json
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\DAL\bin\Debug\net6.0\DAL.dll
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\DAL\bin\Debug\net6.0\DAL.pdb
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.dll
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\DAL\obj\Debug\net6.0\refint\DAL.dll
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.pdb
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\PRN221_MVC-master\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\PRN221_MVC-master\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\PRN221_MVC-master\DAL\bin\Debug\net6.0\DAL.dll
+D:\PRN221_MVC-master\DAL\bin\Debug\net6.0\DAL.pdb
+D:\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.dll
+D:\PRN221_MVC-master\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.pdb
+D:\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\PRN221_MVC-master\DAL\obj\Debug\net6.0\ref\DAL.dll
 C:\Users\voduy\Downloads\PRN221_G5Shop\DAL\bin\Debug\net6.0\DAL.deps.json
 C:\Users\voduy\Downloads\PRN221_G5Shop\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
 C:\Users\voduy\Downloads\PRN221_G5Shop\DAL\bin\Debug\net6.0\DAL.dll

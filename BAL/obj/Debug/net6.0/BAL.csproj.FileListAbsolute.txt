@@ -1,18 +1,18 @@
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\bin\Debug\net6.0\BAL.deps.json
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\bin\Debug\net6.0\BAL.dll
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\bin\Debug\net6.0\BAL.pdb
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\bin\Debug\net6.0\DAL.dll
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\bin\Debug\net6.0\DAL.pdb
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.csproj.AssemblyReference.cache
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.csproj.CopyComplete
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.dll
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\refint\BAL.dll
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.pdb
-D:\Ky 7\PRN221\pj\PRN221_MVC-master\BAL\obj\Debug\net6.0\ref\BAL.dll
+D:\PRN221_MVC-master\BAL\bin\Debug\net6.0\BAL.deps.json
+D:\PRN221_MVC-master\BAL\bin\Debug\net6.0\BAL.dll
+D:\PRN221_MVC-master\BAL\bin\Debug\net6.0\BAL.pdb
+D:\PRN221_MVC-master\BAL\bin\Debug\net6.0\DAL.dll
+D:\PRN221_MVC-master\BAL\bin\Debug\net6.0\DAL.pdb
+D:\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.csproj.AssemblyReference.cache
+D:\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+D:\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+D:\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+D:\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.csproj.CopyComplete
+D:\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.dll
+D:\PRN221_MVC-master\BAL\obj\Debug\net6.0\refint\BAL.dll
+D:\PRN221_MVC-master\BAL\obj\Debug\net6.0\BAL.pdb
+D:\PRN221_MVC-master\BAL\obj\Debug\net6.0\ref\BAL.dll
 C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\bin\Debug\net6.0\BAL.deps.json
 C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\bin\Debug\net6.0\BAL.dll
 C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\bin\Debug\net6.0\BAL.pdb

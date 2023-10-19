@@ -373,6 +373,10 @@
       "PackagePath": "staticwebassets\\admin\\assets\\images\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\PRN221_MVC\\wwwroot\\admin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\assets\\images\\favicon.png"
+    },
+    {
       "Id": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\PRN221_MVC\\wwwroot\\admin\\assets\\images\\logo-dark.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\logo-dark.png"
     },
@@ -2127,6 +2131,10 @@
     {
       "Id": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\PRN221_MVC\\wwwroot\\client\\image\\catalog\\loader.gif",
       "PackagePath": "staticwebassets\\client\\image\\catalog\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\PRN221_MVC\\wwwroot\\client\\image\\catalog\\logo.png",
+      "PackagePath": "staticwebassets\\client\\image\\catalog\\logo.png"
     },
     {
       "Id": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\PRN221_MVC\\wwwroot\\client\\image\\catalog\\logo1.png",
