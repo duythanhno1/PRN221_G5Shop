@@ -9,233 +9,233 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PRN221_MVC
 build_property.RootNamespace = PRN221_MVC
-build_property.ProjectDir = C:\Users\voduy\Downloads\PRN221_G5Shop\PRN221_MVC\
+build_property.ProjectDir = C:\Users\thanh.van\source\repos\PRN221_G5Shop\PRN221_MVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\voduy\Downloads\PRN221_G5Shop\PRN221_MVC
+build_property.MSBuildProjectDirectory = C:\Users\thanh.van\source\repos\PRN221_G5Shop\PRN221_MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Admin/AdminProfile.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Admin/AdminProfile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5Qcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Admin/Create.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Admin/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Admin/Error.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Admin/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Admin/Index.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Admin/Login.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Admin/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Admin/Recover_Password.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Admin/Recover_Password.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVjb3Zlcl9QYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Admin/Sales_Analytics.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Admin/Sales_Analytics.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2FsZXNfQW5hbHl0aWNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Admin/UserDetail.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Admin/UserDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlckRldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Admin/UserList.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Admin/UserList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlckxpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Admin/Users.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Admin/Users.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Cart/Cart.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Cart/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDYXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Client/Email/ConfirmEmail.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Client/Email/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEVtYWlsXENvbmZpcm1FbWFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Client/Email/Error.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Client/Email/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEVtYWlsXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Client/Email/Unconfirm.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Client/Email/Unconfirm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEVtYWlsXFVuY29uZmlybS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Client/User/Detail.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Client/User/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFVzZXJcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Client/User/Edit.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Client/User/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFVzZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Client/User/ForgotPassword.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Client/User/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFVzZXJcRm9yZ290UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Client/User/ForgotPasswordConfirmation.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Client/User/ForgotPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFVzZXJcRm9yZ290UGFzc3dvcmRDb25maXJtYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Client/User/LoginClient.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Client/User/LoginClient.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFVzZXJcTG9naW5DbGllbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Client/User/LoginTwoStep.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Client/User/LoginTwoStep.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFVzZXJcTG9naW5Ud29TdGVwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Client/User/Register.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Client/User/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFVzZXJcUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Client/User/ResetPassword.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Client/User/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFVzZXJcUmVzZXRQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Client/User/ResetPasswordConfirmation.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Client/User/ResetPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XFVzZXJcUmVzZXRQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Home/Category.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Home/Category.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Home/Index.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Home/Register.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Home/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/OrderDetail/Cart.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/OrderDetail/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxcQ2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/OrderDetail/Details.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/OrderDetail/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Order/OrderList.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Order/OrderList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcT3JkZXJMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Order/WishList.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Order/WishList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcV2lzaExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Product/Details.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Product/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Product/Filter.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Product/Filter.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxGaWx0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Shared/Error.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Shared/Error401.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Shared/Error401.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yNDAxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Shared/Error404AdminLayout.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Shared/Error404AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yNDA0QWRtaW5MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Shared/LayoutClient.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Shared/LayoutClient.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dENsaWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Shared/LayoutConfirmEmail.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Shared/LayoutConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dENvbmZpcm1FbWFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Shared/LayoutTwofactor.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Shared/LayoutTwofactor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dFR3b2ZhY3Rvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Shared/LoginAdminLayout.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Shared/LoginAdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExvZ2luQWRtaW5MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Shared/PasswordConfirmation.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Shared/PasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Shared/RecoverPasswordAdminLayout.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Shared/RecoverPasswordAdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFJlY292ZXJQYXNzd29yZEFkbWluTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Shared/RegisterAdminLayout.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Shared/RegisterAdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFJlZ2lzdGVyQWRtaW5MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Shared/ResetPasswordLayout.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Shared/ResetPasswordLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFJlc2V0UGFzc3dvcmRMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Shared/_LayoutShopOwner.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Shared/_LayoutShopOwner.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRTaG9wT3duZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/ShopOwner/CreateProduct.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/ShopOwner/CreateProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcE93bmVyXENyZWF0ZVByb2R1Y3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/ShopOwner/IndexShopOwner.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/ShopOwner/IndexShopOwner.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcE93bmVyXEluZGV4U2hvcE93bmVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/ShopOwner/OrderDetails.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/ShopOwner/OrderDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcE93bmVyXE9yZGVyRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/ShopOwner/OrderHistory.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/ShopOwner/OrderHistory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcE93bmVyXE9yZGVySGlzdG9yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/ShopOwner/ProductDetail.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/ShopOwner/ProductDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcE93bmVyXFByb2R1Y3REZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/ShopOwner/ProductList.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/ShopOwner/ProductList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcE93bmVyXFByb2R1Y3RMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/ShopOwner/ShopOwnerProfile.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/ShopOwner/ShopOwnerProfile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcE93bmVyXFNob3BPd25lclByb2ZpbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Transaction/CheckOut.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Transaction/CheckOut.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25cQ2hlY2tPdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/_ViewImports.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/_ViewStart.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/voduy/Downloads/PRN221_G5Shop/PRN221_MVC/Views/Shared/_Layout.cshtml]
+[C:/Users/thanh.van/source/repos/PRN221_G5Shop/PRN221_MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-cyr9su6pdg

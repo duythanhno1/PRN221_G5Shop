@@ -142,7 +142,7 @@
                                                     <td>
                                                         @try
                                                         {
-                                                            @if (Data.Gender.Equals("M") || Data.Gender.Equals("") || Data.Gender == null)
+                                                            @if (Data.Gender == null || Data.Gender.Equals("M") || Data.Gender.Equals(""))
                                                             {
                                                                 @Html.Raw("Male")
                                                             }
