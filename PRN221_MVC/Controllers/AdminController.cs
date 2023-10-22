@@ -1,4 +1,5 @@
-﻿using DAL;
+﻿using BAL.Model;
+using DAL;
 using DAL.Entities;
 using DAL.Repositories.Interface;
 using Microsoft.AspNetCore.Identity;
@@ -52,9 +53,9 @@ namespace PRN221_MVC.Controllers {
             ViewBag.CheckErr = "Email is already existed";
             return View("Create");
         }
-        public async Task<ActionResult> UserList() {
+        public async Task<IActionResult> UserList() {
             List<User> users = await _userService.GetAll();
-            return View(model: users);
+            return View(users);
         }
         public ActionResult Users() {
             return View();
@@ -218,8 +219,29 @@ namespace PRN221_MVC.Controllers {
         }
 
         // GET: AdminController/Edit/5
-        public ActionResult Edit(int id) {
-            return View();
+        public async Task<IActionResult> UserDetailUpdate(Guid id) {
+            var user = await _userService.GetById(id.ToString());
+            if (user != null)
+            {
+                return View(model: user);
+            } else
+            {
+                return View();
+            }
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> UserDetailSave(UserViewModel model)
+        {
+            
+            var user = await _userService.GetById(model.ID.ToString());
+            user.Name = model.Name;
+            user.DoB = model.DoB;
+            user.Address = model.Address;
+            user.PhoneNumber = model.PhoneNumber;
+            await this._userService.UpdateAsync(user);
+
+            return RedirectToAction("UserList", "Admin");
         }
 
 

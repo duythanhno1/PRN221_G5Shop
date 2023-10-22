@@ -41,5 +41,11 @@ namespace DAL.Repositories.Implements
             var user = await _dbContext.Users.SingleOrDefaultAsync(u => u.Email == userEmail);
             return user;
         }
+
+        public async Task UpdateAsync(User user)
+        {
+            this._dbContext.Users.Update(user);
+            await this._dbContext.SaveChangesAsync();
+        }
     }
 }
