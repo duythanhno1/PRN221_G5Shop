@@ -1,6 +1,8 @@
 ﻿using BAL.Helpers;
 using DAL;
 using DAL.Entities;
+using DAL.Repositories.Implements;
+using DAL.Repositories.Interface;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -17,11 +19,12 @@ namespace PRN221_MVC.Controllers {
         private RoleManager<IdentityRole> roleManager;
         private SignInManager<User> signInManager;
         private readonly FRMDbContext _dbContext;
-
-        public UserController(UserManager<User> userMgr, SignInManager<User> signinMgr, IPasswordHasher<User> passwordHasher, RoleManager<IdentityRole> roleMgr, FRMDbContext dbContext) {
+        private readonly IProductRepository productRepository;
+        public UserController(UserManager<User> userMgr, IProductRepository productRepository, SignInManager<User> signinMgr, IPasswordHasher<User> passwordHasher, RoleManager<IdentityRole> roleMgr, FRMDbContext dbContext) {
             userManager = userMgr;
             signInManager = signinMgr;
             _dbContext = dbContext;
+            this.productRepository = productRepository;
             roleManager = roleMgr;
         }
 
@@ -160,6 +163,17 @@ namespace PRN221_MVC.Controllers {
                 // Access denied
                 return View("/Views/Client/User/LoginClient.cshtml");
             }
+        }
+        public async Task<ActionResult> Edits(long id)
+        {
+            var product = await productRepository.GetProductAsync(id);
+            if (product == null)
+            {
+
+                return NotFound();
+            }
+
+            return View(product);
         }
 
         [AllowAnonymous]

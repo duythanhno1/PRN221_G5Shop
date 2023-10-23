@@ -9,6 +9,11 @@ namespace DAL.Repositories.Interface
 {
     public interface IProductRepository
     {
-        Task<Product?> GetProductAsync(long id);
+        Task<Product> GetProductAsync(long id);
+        Task<List<Product>> GetListProductAsyncs();
+        Task<Product> GetProductAsyncs();
+        Task DeleteProductAsync(long id);
+        Task CreateProductAsync(Product product);
+        Task UpdateProductAsync(Product product);
     }
 }

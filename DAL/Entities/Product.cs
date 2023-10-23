@@ -8,5 +8,10 @@
         public virtual Category? Category { get; set; }
         public bool isDeleted { get; set; }
         public virtual ICollection<Comment>? Comments { get; set; }
+
+        public static implicit operator Product(Task<Product> v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

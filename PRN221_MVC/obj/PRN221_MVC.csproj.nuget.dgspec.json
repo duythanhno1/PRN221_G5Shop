@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\PRN221_MVC\\PRN221_MVC.csproj": {}
+    "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\PRN221_MVC\\PRN221_MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\BAL\\BAL.csproj": {
+    "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\BAL\\BAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\BAL\\BAL.csproj",
+        "projectUniqueName": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\BAL\\BAL.csproj",
         "projectName": "BAL",
-        "projectPath": "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\BAL\\BAL.csproj",
-        "packagesPath": "C:\\Users\\thanh.van\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\BAL\\obj\\",
+        "projectPath": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\BAL\\BAL.csproj",
+        "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\BAL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\thanh.van\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,16 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/wave5/_packaging/wave5/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\DAL\\DAL.csproj"
+              "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\DAL\\DAL.csproj"
               }
             }
           }
@@ -66,30 +60,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.23, 6.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.23, 6.0.23]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.23, 6.0.23]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\DAL\\DAL.csproj": {
+    "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\thanh.van\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\DAL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\thanh.van\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -97,9 +101,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/wave5/_packaging/wave5/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -165,30 +167,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.23, 6.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.23, 6.0.23]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.23, 6.0.23]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\PRN221_MVC\\PRN221_MVC.csproj": {
+    "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\PRN221_MVC\\PRN221_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\PRN221_MVC\\PRN221_MVC.csproj",
+        "projectUniqueName": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\PRN221_MVC\\PRN221_MVC.csproj",
         "projectName": "PRN221_MVC",
-        "projectPath": "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\PRN221_MVC\\PRN221_MVC.csproj",
-        "packagesPath": "C:\\Users\\thanh.van\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\PRN221_MVC\\obj\\",
+        "projectPath": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\PRN221_MVC\\PRN221_MVC.csproj",
+        "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\PRN221_MVC\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\thanh.van\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -196,19 +208,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/wave5/_packaging/wave5/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\BAL\\BAL.csproj": {
-                "projectPath": "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\BAL\\BAL.csproj"
+              "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\BAL\\BAL.csproj": {
+                "projectPath": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\BAL\\BAL.csproj"
               },
-              "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\DAL\\DAL.csproj"
+              "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\DAL\\DAL.csproj"
               }
             }
           }
@@ -235,6 +245,10 @@
               "target": "Package",
               "version": "[6.0.14, )"
             },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.3, )"
@@ -257,7 +271,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[6.0.12, )"
+              "version": "[6.0.16, )"
             },
             "PagedList.Mvc": {
               "target": "Package",
@@ -275,6 +289,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.23, 6.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.23, 6.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.23, 6.0.23]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.23, 6.0.23]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -283,7 +315,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

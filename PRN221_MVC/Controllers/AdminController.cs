@@ -1,6 +1,9 @@
-﻿using BAL.Model;
+﻿using BAL.Services.Implements;
+using BAL.Model;
 using DAL;
 using DAL.Entities;
+using DAL.Models;
+using DAL.Repositories.Implements;
 using DAL.Repositories.Interface;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
@@ -16,12 +19,17 @@ namespace PRN221_MVC.Controllers {
         private readonly IUserService _userService;
         private UserManager<User> _userManager;
         private SignInManager<User> signInManager;
+        private readonly IProductRepository productRepository;
+        public Product Product { get; set; }
+        public List<Product> Products { get; set; }
 
         FRMDbContext context = new FRMDbContext();
-        public AdminController(IUserService userService, UserManager<User> userManager, SignInManager<User> signInManager) {
+        public AdminController(IUserService userService, UserManager<User> userManager, SignInManager<User> signInManager, IProductRepository productRepository)
+        {
             _userService = userService;
             _userManager = userManager;
             this.signInManager = signInManager;
+            this.productRepository = productRepository; // Initialize the product repository
         }
         // GET: AdminController
         public ActionResult Index() {
@@ -32,9 +40,39 @@ namespace PRN221_MVC.Controllers {
                 return View();
             }
         }
+        public async Task<ActionResult> Users()
+        {
+            var Productss = await productRepository.GetProductAsyncs();
+            var Productst = await productRepository.GetListProductAsyncs();
+            var viewModel = new ProductViewModel
+            {
+                Product = Productss,
+                Products = Productst
+            };
 
+            return View(viewModel);
+        }
+        
+        public async Task<ActionResult> Deletes(long id)
+        {
+           await productRepository.DeleteProductAsync(id);
+
+            return RedirectToAction("Users", "Admin", new { area = "" });
+        }
+        public async Task<ActionResult> Edits(Product product)
+        {
+            await productRepository.UpdateProductAsync(product);
+
+            return RedirectToAction("Users", "Admin", new { area = "" });
+        }
         public ActionResult Login() {
             return View();
+        }
+        [HttpPost]
+        public async Task<ActionResult> Creates(Product product)
+        {
+            await productRepository.CreateProductAsync(product);
+            return RedirectToAction("Users", "Admin", new { area = "" });
         }
 
         public List<User> users { get; set; }
@@ -44,7 +82,9 @@ namespace PRN221_MVC.Controllers {
             return View();
         }
 
-        // GET: AdminController/Create
+       
+
+        [HttpGet]
         public ActionResult Create() {
             return View();
         }
@@ -57,9 +97,7 @@ namespace PRN221_MVC.Controllers {
             List<User> users = await _userService.GetAll();
             return View(users);
         }
-        public ActionResult Users() {
-            return View();
-        }
+       
         public async Task<IActionResult> Logout()
         {
             await signInManager.SignOutAsync();
