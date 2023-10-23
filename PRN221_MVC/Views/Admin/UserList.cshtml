@@ -1,4 +1,4 @@
-﻿ư@using DAL
+﻿@using DAL
 @model List<DAL.Entities.User>
 @{
     ViewData["Title"] = "UserList";
@@ -48,7 +48,6 @@
                             Notifications <span class="badge bg-primary rounded-pill">2</span>
                         </h6>
                         <div class="notification-menu" data-simplebar>
-
                         </div>
                         <!-- All-->
                         <a href="javascript:void(0);" class="dropdown-item text-center text-primary">
@@ -137,22 +136,28 @@
                                             {
                                                 <tr>
                                                     <td>@Data.Name</td>
-                                                    <td>@Data.DoB</td>
+                                                    @if (Data.DoB is not null)
+                                                    {
+                                                        <td>@Data.DoB.Value.ToString("dd/MMM/yyyy")</td>
+
+                                                    } else
+                                                    {
+
+                                                        <td>@Data.DoB</td>
+                                                    }
                                                     <td>@Data.Address</td>
                                                     <td>
                                                         @try
                                                         {
-                                                            @if (Data.Gender.Equals("M") || Data.Gender.Equals("") || Data.Gender == null)
+                                                            @if (Data.Gender == null || Data.Gender.Equals("M") || Data.Gender.Equals(""))
                                                             {
                                                                 @Html.Raw("Male")
-                                                            }
-                                                            else if (Data.Gender.Equals("F"))
+                                                            } else if (Data.Gender.Equals("F"))
                                                             {
                                                                 @Html.Raw("FeMale")
                                                             }
 
-                                                        }
-                                                        catch
+                                                        } catch
                                                         {
                                                             @Html.Raw("Male")
                                                         }
@@ -161,8 +166,7 @@
                                                         @if (Data.Orders.Where(x => x.UserId == Data.Id).Count() == 0)
                                                         {
                                                             @Html.Raw("This user doesn't have any order yet.")
-                                                        }
-                                                        else
+                                                        } else
                                                         {
                                                             @Html.Raw("This user has " + Data.Orders.Where(x=>x.UserId == Data.Id).Count() + " order(s).")
                                                         }

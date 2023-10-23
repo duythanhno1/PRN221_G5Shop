@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vPDodwqmTlraZBy8IsOaZUYK5AGbRZ1ZXxWnlDWOfeXX7r7tECrS+DBQYn6vRj5TbNfcaZoOK6KxC4xm4dAxPA==",
+  "dgSpecHash": "8GSjwKYPs+JK7k1LtWumUtSQQ6IxItilxmuIJeFEEXJV3f/M0G0awkgA7BhLsN67ClZM7mYwVn0sxcTgq4KAKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\PRN221_MVC\\PRN221_MVC.csproj",
+  "projectFilePath": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\PRN221_MVC\\PRN221_MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hoang\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\hoang\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
