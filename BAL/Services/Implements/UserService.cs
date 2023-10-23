@@ -28,5 +28,10 @@ namespace BAL.Services.Implements {
         {
             return _userRepository.GetUserByEmail(email).Result;
         }
+
+        public Task UpdateAsync(User user)
+        {
+            return this._userRepository.UpdateAsync(user);  
+        }
     }
 }

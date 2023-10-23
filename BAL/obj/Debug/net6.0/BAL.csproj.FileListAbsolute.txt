@@ -28,6 +28,7 @@ C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\obj\Debug\net6.0\BAL.dll
 C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\obj\Debug\net6.0\refint\BAL.dll
 C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\obj\Debug\net6.0\BAL.pdb
 C:\Users\voduy\Downloads\PRN221_G5Shop\BAL\obj\Debug\net6.0\ref\BAL.dll
+<<<<<<< HEAD
 C:\Users\hoang\Documents\GitHub\PRN221_G5Shop\BAL\bin\Debug\net6.0\BAL.deps.json
 C:\Users\hoang\Documents\GitHub\PRN221_G5Shop\BAL\bin\Debug\net6.0\BAL.dll
 C:\Users\hoang\Documents\GitHub\PRN221_G5Shop\BAL\bin\Debug\net6.0\BAL.pdb
@@ -58,3 +59,20 @@ C:\Users\hoang\Desktop\PRN221_G5Shop\BAL\obj\Debug\net6.0\BAL.dll
 C:\Users\hoang\Desktop\PRN221_G5Shop\BAL\obj\Debug\net6.0\refint\BAL.dll
 C:\Users\hoang\Desktop\PRN221_G5Shop\BAL\obj\Debug\net6.0\BAL.pdb
 C:\Users\hoang\Desktop\PRN221_G5Shop\BAL\obj\Debug\net6.0\ref\BAL.dll
+=======
+C:\Users\thanh.van\source\repos\PRN221_G5Shop\BAL\bin\Debug\net6.0\BAL.deps.json
+C:\Users\thanh.van\source\repos\PRN221_G5Shop\BAL\bin\Debug\net6.0\BAL.dll
+C:\Users\thanh.van\source\repos\PRN221_G5Shop\BAL\bin\Debug\net6.0\BAL.pdb
+C:\Users\thanh.van\source\repos\PRN221_G5Shop\BAL\bin\Debug\net6.0\DAL.dll
+C:\Users\thanh.van\source\repos\PRN221_G5Shop\BAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\thanh.van\source\repos\PRN221_G5Shop\BAL\obj\Debug\net6.0\BAL.csproj.AssemblyReference.cache
+C:\Users\thanh.van\source\repos\PRN221_G5Shop\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh.van\source\repos\PRN221_G5Shop\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+C:\Users\thanh.van\source\repos\PRN221_G5Shop\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+C:\Users\thanh.van\source\repos\PRN221_G5Shop\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\thanh.van\source\repos\PRN221_G5Shop\BAL\obj\Debug\net6.0\BAL.csproj.CopyComplete
+C:\Users\thanh.van\source\repos\PRN221_G5Shop\BAL\obj\Debug\net6.0\BAL.dll
+C:\Users\thanh.van\source\repos\PRN221_G5Shop\BAL\obj\Debug\net6.0\refint\BAL.dll
+C:\Users\thanh.van\source\repos\PRN221_G5Shop\BAL\obj\Debug\net6.0\BAL.pdb
+C:\Users\thanh.van\source\repos\PRN221_G5Shop\BAL\obj\Debug\net6.0\ref\BAL.dll
+>>>>>>> main

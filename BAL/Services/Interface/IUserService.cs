@@ -14,5 +14,7 @@ namespace DAL.Repositories.Interface
         Task<User> GetById(string id);
         User? GetUserByEmail(string email);
         Task<User> GetByEmail(string email);
+
+        Task UpdateAsync(User user);
     }
 }
