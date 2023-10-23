@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\BAL\\BAL.csproj": {}
   },
   "projects": {
@@ -13,30 +12,9 @@
         "projectPath": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\BAL\\BAL.csproj",
         "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\BAL\\obj\\",
-=======
-    "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\BAL\\BAL.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\BAL\\BAL.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\BAL\\BAL.csproj",
-        "projectName": "BAL",
-        "projectPath": "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\BAL\\BAL.csproj",
-        "packagesPath": "C:\\Users\\thanh.van\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\BAL\\obj\\",
->>>>>>> main
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-<<<<<<< HEAD
           "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-          "C:\\Users\\thanh.van\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
->>>>>>> main
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,21 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/wave5/_packaging/wave5/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-<<<<<<< HEAD
               "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\DAL\\DAL.csproj": {
                 "projectPath": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\DAL\\DAL.csproj"
-=======
-              "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\DAL\\DAL.csproj"
->>>>>>> main
               }
             }
           }
@@ -108,7 +79,6 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
@@ -121,31 +91,9 @@
         "projectPath": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\DAL\\obj\\",
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\DAL\\DAL.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\DAL\\DAL.csproj",
-        "projectName": "DAL",
-        "projectPath": "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\thanh.van\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thanh.van\\source\\repos\\PRN221_G5Shop\\DAL\\obj\\",
->>>>>>> main
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-<<<<<<< HEAD
           "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-          "C:\\Users\\thanh.van\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
->>>>>>> main
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -153,9 +101,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/wave5/_packaging/wave5/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -240,11 +186,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
-=======
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
->>>>>>> main
         }
       }
     }
