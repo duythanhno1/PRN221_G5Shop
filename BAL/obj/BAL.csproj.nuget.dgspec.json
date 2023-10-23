@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\BAL\\BAL.csproj": {}
+    "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\BAL\\BAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\BAL\\BAL.csproj": {
+    "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\BAL\\BAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\BAL\\BAL.csproj",
+        "projectUniqueName": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\BAL\\BAL.csproj",
         "projectName": "BAL",
-        "projectPath": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\BAL\\BAL.csproj",
-        "packagesPath": "C:\\Users\\voduy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\BAL\\obj\\",
+        "projectPath": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\BAL\\BAL.csproj",
+        "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\BAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\voduy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\DAL\\DAL.csproj"
+              "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\DAL\\DAL.csproj"
               }
             }
           }
@@ -60,26 +60,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.23, 6.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.23, 6.0.23]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.23, 6.0.23]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\DAL\\DAL.csproj": {
+    "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\voduy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\voduy\\Downloads\\PRN221_G5Shop\\DAL\\obj\\",
+        "projectPath": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hoang\\Documents\\GitHub\\PRN221_G5Shop\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\voduy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -153,12 +167,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.23, 6.0.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.23, 6.0.23]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.23, 6.0.23]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
