@@ -1,0 +1,38 @@
+﻿#cart {
+    z-index: 999;  
+}
+
+#cart > ul {
+    width: 500px;
+}
+
+#cart-list-item {
+    display: flex;
+    height: 150px;
+    flex-direction: row;
+    justify-content: start;
+    align-items: stretch
+}
+
+#cart-item-label {
+    flex-grow: 3;
+    margin-top: 3rem;
+    overflow: hidden;
+    text-overflow: ellipsis
+}
+
+#delete-cart-item {
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    height: 50px;
+    width: 50px;
+    align-self: center;
+    margin-right: 3rem;
+}
+
+#delete-cart-item > ion-icon {
+    height: 20px;
+    width: 20px;
+}

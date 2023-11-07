@@ -1,56 +1,28 @@
-D:\PRN221_MVC-master\DAL\bin\Debug\net6.0\DAL.deps.json
-D:\PRN221_MVC-master\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
-D:\PRN221_MVC-master\DAL\bin\Debug\net6.0\DAL.dll
-D:\PRN221_MVC-master\DAL\bin\Debug\net6.0\DAL.pdb
-D:\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
-D:\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
-D:\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
-D:\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
-D:\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
-D:\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.dll
-D:\PRN221_MVC-master\DAL\obj\Debug\net6.0\refint\DAL.dll
-D:\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.pdb
-D:\PRN221_MVC-master\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
-D:\PRN221_MVC-master\DAL\obj\Debug\net6.0\ref\DAL.dll
-C:\Users\voduy\Downloads\PRN221_G5Shop\DAL\bin\Debug\net6.0\DAL.deps.json
-C:\Users\voduy\Downloads\PRN221_G5Shop\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
-C:\Users\voduy\Downloads\PRN221_G5Shop\DAL\bin\Debug\net6.0\DAL.dll
-C:\Users\voduy\Downloads\PRN221_G5Shop\DAL\bin\Debug\net6.0\DAL.pdb
-C:\Users\voduy\Downloads\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
-C:\Users\voduy\Downloads\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\voduy\Downloads\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
-C:\Users\voduy\Downloads\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
-C:\Users\voduy\Downloads\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
-C:\Users\voduy\Downloads\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.dll
-C:\Users\voduy\Downloads\PRN221_G5Shop\DAL\obj\Debug\net6.0\refint\DAL.dll
-C:\Users\voduy\Downloads\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.pdb
-C:\Users\voduy\Downloads\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
-C:\Users\voduy\Downloads\PRN221_G5Shop\DAL\obj\Debug\net6.0\ref\DAL.dll
-C:\Users\hoang\Documents\GitHub\PRN221_G5Shop\DAL\bin\Debug\net6.0\DAL.deps.json
-C:\Users\hoang\Documents\GitHub\PRN221_G5Shop\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
-C:\Users\hoang\Documents\GitHub\PRN221_G5Shop\DAL\bin\Debug\net6.0\DAL.dll
-C:\Users\hoang\Documents\GitHub\PRN221_G5Shop\DAL\bin\Debug\net6.0\DAL.pdb
-C:\Users\hoang\Documents\GitHub\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
-C:\Users\hoang\Documents\GitHub\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\hoang\Documents\GitHub\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
-C:\Users\hoang\Documents\GitHub\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
-C:\Users\hoang\Documents\GitHub\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
-C:\Users\hoang\Documents\GitHub\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.dll
-C:\Users\hoang\Documents\GitHub\PRN221_G5Shop\DAL\obj\Debug\net6.0\refint\DAL.dll
-C:\Users\hoang\Documents\GitHub\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.pdb
-C:\Users\hoang\Documents\GitHub\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
-C:\Users\hoang\Documents\GitHub\PRN221_G5Shop\DAL\obj\Debug\net6.0\ref\DAL.dll
-C:\Users\hoang\Desktop\PRN221_G5Shop\DAL\bin\Debug\net6.0\DAL.deps.json
-C:\Users\hoang\Desktop\PRN221_G5Shop\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
-C:\Users\hoang\Desktop\PRN221_G5Shop\DAL\bin\Debug\net6.0\DAL.dll
-C:\Users\hoang\Desktop\PRN221_G5Shop\DAL\bin\Debug\net6.0\DAL.pdb
-C:\Users\hoang\Desktop\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
-C:\Users\hoang\Desktop\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\hoang\Desktop\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
-C:\Users\hoang\Desktop\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
-C:\Users\hoang\Desktop\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
-C:\Users\hoang\Desktop\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.dll
-C:\Users\hoang\Desktop\PRN221_G5Shop\DAL\obj\Debug\net6.0\refint\DAL.dll
-C:\Users\hoang\Desktop\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.pdb
-C:\Users\hoang\Desktop\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
-C:\Users\hoang\Desktop\PRN221_G5Shop\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\PRM392_Group05\PRN221_G5Shop\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\PRM392_Group05\PRN221_G5Shop\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\PRM392_Group05\PRN221_G5Shop\DAL\bin\Debug\net6.0\DAL.dll
+D:\PRM392_Group05\PRN221_G5Shop\DAL\bin\Debug\net6.0\DAL.pdb
+D:\PRM392_Group05\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\PRM392_Group05\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRM392_Group05\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\PRM392_Group05\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\PRM392_Group05\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\PRM392_Group05\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.dll
+D:\PRM392_Group05\PRN221_G5Shop\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\PRM392_Group05\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.pdb
+D:\PRM392_Group05\PRN221_G5Shop\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\PRM392_Group05\PRN221_G5Shop\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\PRM392_Group05\PRN221_G5Shop - Copy\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\PRM392_Group05\PRN221_G5Shop - Copy\DAL\bin\Debug\net6.0\DAL.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\DAL\bin\Debug\net6.0\DAL.pdb
+D:\PRM392_Group05\PRN221_G5Shop - Copy\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\PRM392_Group05\PRN221_G5Shop - Copy\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRM392_Group05\PRN221_G5Shop - Copy\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\PRM392_Group05\PRN221_G5Shop - Copy\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\PRM392_Group05\PRN221_G5Shop - Copy\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\PRM392_Group05\PRN221_G5Shop - Copy\DAL\obj\Debug\net6.0\DAL.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\DAL\obj\Debug\net6.0\DAL.pdb
+D:\PRM392_Group05\PRN221_G5Shop - Copy\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\PRM392_Group05\PRN221_G5Shop - Copy\DAL\obj\Debug\net6.0\ref\DAL.dll

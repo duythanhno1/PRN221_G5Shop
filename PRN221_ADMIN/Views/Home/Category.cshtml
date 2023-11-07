@@ -1,0 +1,339 @@
+﻿@using Microsoft.AspNetCore.Http
+@using Newtonsoft.Json
+@inject IHttpContextAccessor Accessor
+@model List<DAL.Entities.Product>
+@{
+    ViewData["Title"] = "Category";
+    Layout = "~/Views/Shared/LayoutClient.cshtml";
+    var accessor = Context.Request.HttpContext;
+    string productJson = JsonConvert.SerializeObject(Model);
+}
+
+
+<div class="breadbg">
+    <div class="container">
+        <div class="row">
+            <ul class="breadcrumb">
+                <li>
+                    <a href="@Url.ActionLink("Index","Home")">
+                        <i class="fa fa-home"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="@Url.ActionLink("Category","Home")">meats &amp; sea foods</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div id="product-category" class="container cleft">
+    <div class="row">
+        <aside id="column-left" class="col-sm-4 col-md-3 col-xs-12 hidden-xs">
+            <div class="list-group catlistpage hidden-xs">
+                <div class="panel-heading cathed">category</div>
+
+                <a href="@Url.ActionLink("Category","Home")"
+                   class="list-group-item active">meats &amp; sea foods (@ViewBag.TotalProduct)</a>
+            </div>
+            <script type="text/javascript">
+                            <!--
+                $("#button-filter").on("click", function () {
+                    filter = [];
+
+                    $("input[name^='filter']:checked").each(function (element) {
+                        filter.push(this.value);
+                    });
+
+                    location =
+                        "indexfd9e.html?route=product/category&amp;path=20&amp;filter=" +
+                        filter.join(",");
+                });
+                //-->
+            </script>
+        </aside>
+
+        <div id="content" class="col-sm-8 col-md-9 col-xs-12 colright">
+            <div class="cate-top row hidden-xs">
+                <h2>meats &amp; sea foods</h2>
+                <div class="row">
+                    <div class="col-md-5 col-lg-2 hidden-sm">
+                        <img src="~/client/image/cache/catalog/category/5-120x120.png"
+                             alt="meats &amp; sea foods"
+                             title="meats &amp; sea foods"
+                             class="img-responsive center-block" />
+                    </div>
+                    <div class="col-md-7 col-sm-12 col-lg-10 col-xs-12">
+                        <p>
+                            Shop Laptop feature only the best laptop deals on the market.
+                            By comparing laptop deals from the likes of PC World, Comet,
+                            Dixons, The Link and Carphone Warehouse, Shop Laptop has the
+                            most comprehensive selection of laptops on the internet. At
+                            Shop Laptop, we pride ourselves on offering customers the very
+                            best laptop deals. From refurbished laptops to netbooks, Shop
+                            Laptop ensures that every laptop - in every colour, style,
+                            size and technical spec - is featured on the site at the
+                            lowest possible price.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="appres"></div>
+            <div class="refines">
+                <h3>Refine Search</h3>
+                <ul class="list-unstyled list-inline"></ul>
+            </div>
+
+            <div class="row cate-border">
+                <div class="col-md-2 col-sm-3 col-xs-4 lgrid">
+                    <div class="btn-group-sm">
+                        <button type="button"
+                                id="list-view"
+                                class="btn listgridbtn"
+                                data-toggle="tooltip"
+                                title="List">
+                            <svg width="20px" height="20px">
+                                <use xlink:href="#clist"></use>
+                            </svg>
+                        </button>
+                        <button type="button"
+                                id="grid-view"
+                                class="btn listgridbtn"
+                                data-toggle="tooltip"
+                                title="Grid">
+                            <svg width="18px" height="18px">
+                                <use xlink:href="#cgrid"></use>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-5 col-sm-6 col-xs-8 hidden-md hidden-sm ct">
+                    <a href="index6431.html?route=product/compare"
+                       id="compare-total"
+                       class="btn btn-link">Product Compare (0)</a>
+                </div>
+                <div class="col-lg-3 col-md-5 col-xs-4 col-sm-5 catesort">
+                    <div class="input-group input-group-sm select-input">
+                        <label class="input-group-addon" for="sortId">Sort By:</label>
+                        <form asp-action="Category" asp-controller="Home" method="get">
+                            <select id="sortId" class="form-control" onchange="sortProducts()">
+                                <option value="">Choose option</option>
+                                <option value="@Url.ActionLink("Category","Home", new { sortId = 1 })">Name (A-Z)</option>
+                                <option value="@Url.ActionLink("Category","Home", new { sortId = 2 })">Name (Z-A)</option>
+                                <option value="@Url.ActionLink("Category", "Home",new { sortId = 3 })">Price (Low to High)</option>
+                                <option value="@Url.ActionLink("Category", "Home",new { sortId = 4 })">Price (High to Low)</option>
+                            </select>
+
+
+                        </form>
+
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-5 col-xs-4 col-sm-4 catesort">
+                    <div class="input-group input-group-sm select-input">
+                        <label class="input-group-addon" for="input-limit">Show:</label>
+                        <select id="input-limit"
+                                class="form-control"
+                                onchange="location = this.value;">
+                            <option value="https://opencart.dostguru.com/FD04/upbasket_01/index.php?route=product/category&amp;path=20&amp;limit=15"
+                                    selected="selected">
+                                15
+                            </option>
+                            <option value="index9c6c.html?route=product/category&amp;path=20&amp;limit=25">
+                                25
+                            </option>
+                            <option value="index0f50.html?route=product/category&amp;path=20&amp;limit=50">
+                                50
+                            </option>
+                            <option value="indexf053.html?route=product/category&amp;path=20&amp;limit=75">
+                                75
+                            </option>
+                            <option value="index545c.html?route=product/category&amp;path=20&amp;limit=100">
+                                100
+                            </option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="row cpagerow">
+                @foreach (var product in Model)
+                {
+                    var json = JsonConvert.SerializeObject(product);
+                    accessor.Session.SetString($"Product_{product.ID}", json);
+                    if (product.isDeleted == false)
+                    {
+                        <div class="product-layout product-list col-xs-12">
+                            <div class="product-thumb transition">
+                                <div class="image">
+                                    <a href="@Url.ActionLink("Details","Product",new { id = product.ID })">
+                                        <img src="~/client/image/cache/catalog/product/29-329x329.jpg"
+                                     alt="Chakki-Fresh-Wheat-Atta/Godihittu - Fortified"
+                                     title="Chakki-Fresh-Wheat-Atta/Godihittu - Fortified"
+                                     class="img-responsive center-block" />
+                                    </a>
+                                    <!-- Images Start -->
+                                    <a href="@Url.ActionLink("Details","Product",new { id = product.ID })">
+                                        <img src="~/client/image/cache/catalog/product/14-329x329.jpg"
+                                     class="img-responsive second-img"
+                                     alt="hover image" />
+                                    </a>
+                                    <!-- Images End -->
+                                </div>
+
+                                <div class="caption text-left">
+                                    <h4 class="protitle">
+                                        <a href="index3f41.html?route=product/product&amp;path=20&amp;product_id=44">@product.Name</a>
+                                    </h4>
+                                    <p class="catlist-des">
+                                        MacBook Air is ultrathin, ultraportable, and ultra unlike
+                                        anything else. But you don&rsquo;t lose inches and pounds
+                                        overnight. It&rsquo;s the result of rethinking conventions.
+                                        Of multiple wireless inn..
+                                    </p>
+                                    <div class="webi-main">
+                                        <input type="hidden" name="product_id" value="44" />
+                                        <div class="form-group required checkbox_input">
+                                            <label class="control-label">weight</label>
+                                            <div id="input-option236">
+                                                <div class="checkbox">
+                                                    <label class="size-option">
+                                                        <input class="webi-option-click"
+                                                       type="checkbox"
+                                                       name="option[236][]"
+                                                       value="37"
+                                                       data-rawPrice="180" />
+                                                        <span>@product.ID</span>
+                                                    </label>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="rating comments_note wb-list-product-reviews">
+                                        <span class="or-rate">
+                                            <span class="fa fa-stack">
+                                                <i class="fa fa-star-o fa-stack-2x"></i>
+                                            </span>
+                                            <span class="fa fa-stack">
+                                                <i class="fa fa-star-o fa-stack-2x"></i>
+                                            </span>
+                                            <span class="fa fa-stack">
+                                                <i class="fa fa-star-o fa-stack-2x"></i>
+                                            </span>
+                                            <span class="fa fa-stack">
+                                                <i class="fa fa-star-o fa-stack-2x"></i>
+                                            </span>
+                                            <span class="fa fa-stack">
+                                                <i class="fa fa-star-o fa-stack-2x"></i>
+                                            </span>
+                                        </span>
+                                    </div>
+                                    <p class="price">
+                                        <span data-update="price-44" class="price">@product.Price</span>
+                                    </p>
+                                    <div class="homeqtinner">
+                                        <div class="homeqt">
+                                            <button type="button"
+                                            onclick="qty.minus('44')"
+                                            class="form-control pull-left btn-number btnminus dis-44"
+                                            disabled="disabled">
+                                                <span class="glyphicon glyphicon-minus"></span>
+                                            </button>
+                                            <input name="quantity"
+                                           class="addhqty"
+                                           type="text"
+                                           value="1"
+                                           size="2"
+                                           min="1"
+                                           max="999"
+                                           id="input-quantity-44"
+                                           class="form-control input-number pull-left" />
+                                            <button type="button"
+                                            onclick="qty.plus('44')"
+                                            class="form-control pull-left btn-number btnplus">
+                                                <span class="glyphicon glyphicon-plus"></span>
+                                            </button>
+                                        </div>
+                                        <input type="hidden" name="product_id" value="44" />
+                                        <button type="button" class="cartb add-to-cart webi-cart">
+                                            <svg><use xlink:href="#pcart"></use></svg>
+                                        </button>
+                                        <input type="hidden"
+                                       name="hid-qty-msg"
+                                       value="Quantity At Least One or More" />
+                                    </div>
+                                    <div class="button-group">
+                                        <div class="absbtn">
+                                            <form method="post" asp-action="AddToWishList" id="addToWishListForm">
+                                                <input type="hidden" name="id" value="@product.ID" />
+                                                <button type="submit" class="btn-wishlist" title="Add to Wish List" onclick="submitForm(event)">
+                                                    <svg><use xlink:href="#heart" /></svg>
+                                                </button>
+                                            </form>
+                                            <script>
+                                                function submitForm(event) {
+                                                    event.preventDefault();
+                                                    var form = event.target.closest('form');
+                                                    var formData = new FormData(form);
+                                                    fetch(form.action, {
+                                                        method: 'POST',
+                                                        body: formData
+                                                    })
+                                                        .then(function (response) {
+                                                            if (response.ok) {
+                                                                // Show success message as a popup
+                                                                Swal.fire({
+                                                                    icon: 'success',
+                                                                    title: 'Item added to Wish List!',
+                                                                    showConfirmButton: false,
+                                                                    timer: 1500
+                                                                }).then(function () {
+                                                                    // Reload the page after the popup is closed
+                                                                    location.reload();
+                                                                });
+                                                            } else {
+                                                                // Handle error response
+                                                                response.json().then(function (data) {
+                                                                    var errorMessages = Object.values(data.errors).join('<br>');
+                                                                    Swal.fire({
+                                                                        icon: 'error',
+                                                                        title: 'Error',
+                                                                        html: errorMessages
+                                                                    });
+                                                                });
+                                                            }
+                                                        });
+                                                }
+                                            </script>
+
+
+
+
+
+
+
+
+                                        </div>
+                                        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.18/dist/sweetalert2.min.js"></script>
+                                        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.18/dist/sweetalert2.min.css">
+
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+
+                    }
+                }
+
+            </div>
+            <div class="row pagi">
+                <div class="col-sm-6 col-xs-6 text-left"></div>
+                <div class="col-sm-6 col-xs-6 text-right tot">
+                    Showing 1 to 9 of 9 (1 Pages)
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

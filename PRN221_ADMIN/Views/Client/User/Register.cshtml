@@ -1,0 +1,108 @@
+﻿@{
+    ViewData["Title"] = "LoginClient";
+    Layout = "~/Views/Shared/LayoutClient.cshtml";
+    var errors = ViewData["error"] as List<IdentityError>;
+}
+@model RegisterUserViewModel
+@using Microsoft.AspNetCore.Identity;
+
+<div class="breadbg">
+    <div class="container">
+        <div class="row">
+            <ul class="breadcrumb">
+                <li><a href="index9328.html?route=common/home"><i class="fa fa-home"></i></a></li>
+                <li><a href="@Url.Action("Detail","User")">Account</a></li>
+                <li><a href="@Url.Action("Register","User")">Register</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div id="account-register" class="container acpage">
+    <div class="row">
+        <div id="content" class="col-sm-8 col-md-9 col-xs-12 colright">
+            <div class="infobg">
+                <h1>Register Account</h1>
+                <p>If you already have an account with us, please login at the <a href="@Url.Action("Login","User")">login page</a>.</p>
+                
+                @{
+                    if (errors != null) {
+                         <ul class="text-danger">
+                            @foreach (var er in errors) {
+                                <li>@er.Description</li>
+                            }
+                        </ul>
+                    }
+                }
+               
+                <form method="post" autocomplete="off" enctype="multipart/form-data" class="form-horizontal">
+                    <fieldset id="account">
+                        <legend>Your Personal Details</legend>
+                        <div class="form-group required" style="display:  none ;">
+                            <label class="col-sm-3 col-xs-12 control-label">Customer Group</label>
+                            <div class="col-sm-9 col-xs-12">
+                                <div class="radio">
+                                    <label>
+                                        <input type="radio" name="customer_group_id" value="1" checked="checked" />
+                                        Default
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group required">
+                            <label class="col-sm-3 col-xs-12 control-label" asp-for="Name">Name</label>
+                            <div class="col-sm-9 col-xs-12">
+                                <input type="text" name="name" asp-for="Name" value="Võ Duy Thanh" placeholder="Name" id="input-name" class="form-control" />
+                            </div>
+                        </div>
+                        <div class="form-group required">
+                            <label class="col-sm-3 col-xs-12 control-label" asp-for="Username">Username</label>
+                            <div class="col-sm-9 col-xs-12">
+                                <input type="text" name="username" asp-for="Username" value="thanh123456" placeholder="Username" id="input-username" class="form-control" />
+                            </div>
+                        </div>
+                        <div class="form-group required">
+                            <label class="col-sm-3 col-xs-12 control-label" asp-for="Email">E-Mail</label>
+                            <div class="col-sm-9 col-xs-12">
+                                <input type="email" name="email" value="thanhvdce160641@fpt.edu.vn" asp-for="Email" placeholder="E-Mail" id="input-email" class="form-control" />
+                            </div>
+                        </div>
+                        <div class="form-group required">
+                            <label class="col-sm-3 col-xs-12 control-label" asp-for="PhoneNumber">PhoneNumber</label>
+                            <div class="col-sm-9 col-xs-12">
+                                <input type="tel" name="phoneNumber" asp-for="PhoneNumber" value="0123456789" placeholder="Phone Number" id="input-telephone" class="form-control" />
+                            </div>
+                        </div>
+                        <div class="form-group required">
+                            <label class="col-sm-3 col-xs-12 control-label" asp-for="Password">Password</label>
+                            <div class="col-sm-9 col-xs-12">
+                                <input type="password" name="password" asp-for="Password" value="123@abcABC" placeholder="Password" id="input-password" class="form-control" />
+                            </div>
+                        </div>
+                    </fieldset>
+                   
+                    <div class="buttons">
+                        <div class="text-right acspace">
+                            I have read and agree to the <a href="index11ee.html?route=information/information/agree&amp;information_id=3" class="agree"><b>Privacy Policy</b></a>
+                            <input type="checkbox" name="agree" value="1" />
+                            &nbsp;
+                            <input type="submit" value="Continue" class="btn btn-primary" />
+                        </div>
+                    </div>
+                    
+                </form>
+            </div>
+        </div>
+        <aside id="column-right" class="col-sm-4 col-md-3 col-xs-12 hidden-xs">
+            <div class="list-group accolumn">
+
+
+                <h3><svg class="" width="20px" height="20px"> <use xlink:href="#acluser"></use> </svg>ACCOUNT SETTINGS</h3>
+                <a href="@Url.Action("Login", "User")" class="list-group-item">Login</a>
+                <a href="@Url.Action("Register","User")" class="list-group-item">Register</a>
+                <a href="@Url.Action("ForgotPassword","User")" class="list-group-item">Forgot Password</a>
+                <a href="@Url.Action("Detail","User")" class="list-group-item">My Account</a>
+
+            </div>
+        </aside>
+    </div>
+</div>

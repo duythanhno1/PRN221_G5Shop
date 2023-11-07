@@ -1,0 +1,1126 @@
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.csproj.AssemblyReference.cache
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.AssemblyInfoInputs.cache
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.AssemblyInfo.cs
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.csproj.CoreCompileInputs.cache
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.MvcApplicationPartsAssemblyInfo.cs
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.MvcApplicationPartsAssemblyInfo.cache
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.RazorAssemblyInfo.cache
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.RazorAssemblyInfo.cs
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\appsettings.Development.json
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\appsettings.json
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\PRN221_ADMIN.staticwebassets.runtime.json
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\PRN221_ADMIN.exe
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\PRN221_ADMIN.deps.json
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\PRN221_ADMIN.runtimeconfig.json
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\PRN221_ADMIN.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\PRN221_ADMIN.pdb
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\mscorlib.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\netstandard.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Collections.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Console.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Data.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Linq.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Memory.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Threading.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Web.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Windows.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Xml.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Azure.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Azure.Identity.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Humanizer.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\MailKit.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\MessagePack.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Build.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\MimeKit.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\NuGet.Common.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\PagedList.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\PagedList.Mvc.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\System.Memory.Data.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\System.Text.Json.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\BAL.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\DAL.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\BAL.pdb
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\DAL.pdb
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.PRN221_ADMIN.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.build.PRN221_ADMIN.props
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PRN221_ADMIN.props
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PRN221_ADMIN.props
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\staticwebassets.pack.json
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\staticwebassets.build.json
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\staticwebassets.development.json
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\scopedcss\bundle\PRN221_ADMIN.styles.css
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\scopedcss\projectbundle\PRN221_ADMIN.bundle.scp.css
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.csproj.CopyComplete
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\refint\PRN221_ADMIN.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.pdb
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.genruntimeconfig.cache
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\obj\Debug\net6.0\ref\PRN221_ADMIN.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\PRM392_Group05\PRN221_G5Shop\PRN221_ADMIN\bin\Debug\net6.0\System.CodeDom.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\appsettings.Development.json
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\appsettings.json
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\PRN221_ADMIN.staticwebassets.runtime.json
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\PRN221_ADMIN.exe
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\PRN221_ADMIN.deps.json
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\PRN221_ADMIN.runtimeconfig.json
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\PRN221_ADMIN.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\PRN221_ADMIN.pdb
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\mscorlib.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\netstandard.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.AppContext.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Buffers.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Collections.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.ComponentModel.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Configuration.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Console.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Data.Common.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Data.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Drawing.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Globalization.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.Compression.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Linq.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Memory.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.Http.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.Mail.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.Ping.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.Requests.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.Security.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Numerics.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.ObjectModel.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Reflection.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Claims.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Principal.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Threading.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Transactions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.ValueTuple.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Web.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Windows.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Xml.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\refs\WindowsBase.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Azure.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Azure.Identity.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Humanizer.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\MailKit.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\MessagePack.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Build.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\MimeKit.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\NuGet.Common.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\PagedList.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\PagedList.Mvc.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\System.CodeDom.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\System.Memory.Data.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\System.Text.Json.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\BAL.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\DAL.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\BAL.pdb
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\bin\Debug\net6.0\DAL.pdb
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.csproj.AssemblyReference.cache
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.AssemblyInfoInputs.cache
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.AssemblyInfo.cs
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.csproj.CoreCompileInputs.cache
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.MvcApplicationPartsAssemblyInfo.cs
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.MvcApplicationPartsAssemblyInfo.cache
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.RazorAssemblyInfo.cache
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.RazorAssemblyInfo.cs
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.PRN221_ADMIN.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.build.PRN221_ADMIN.props
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PRN221_ADMIN.props
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PRN221_ADMIN.props
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\staticwebassets.pack.json
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\staticwebassets.build.json
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\staticwebassets.development.json
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\scopedcss\bundle\PRN221_ADMIN.styles.css
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\scopedcss\projectbundle\PRN221_ADMIN.bundle.scp.css
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.csproj.CopyComplete
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\refint\PRN221_ADMIN.dll
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.pdb
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\PRN221_ADMIN.genruntimeconfig.cache
+D:\PRM392_Group05\PRN221_G5Shop - Copy\PRN221_ADMIN\obj\Debug\net6.0\ref\PRN221_ADMIN.dll

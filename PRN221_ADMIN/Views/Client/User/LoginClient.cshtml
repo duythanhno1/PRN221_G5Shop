@@ -1,0 +1,76 @@
+﻿@{
+    ViewData["Title"] = "LoginClient";
+    Layout = "~/Views/Shared/LayoutClient.cshtml";
+    var loginError = ViewData["LoginError"] as string;
+}
+@model LoginUserViewModel
+
+<div class="breadbg">
+    <div class="container">
+        <div class="row">
+            <ul class="breadcrumb">
+                <li><a href="index9328.html?route=common/home"><i class="fa fa-home"></i></a></li>
+                <li><a href="@Url.Action("Detail","User")">Account</a></li>
+                <li><a href="@Url.Action("Login","User")">Login</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="text-danger" asp-validation-summary="All"></div>
+
+<div id="account-login" class="container acpage">
+    <div class="row">
+        <div id="content" class="col-sm-8 col-md-9 col-xs-12 colright">
+
+            <div class="row">
+                <div class="col-sm-12 col-md-6 col-lg-6 col-xs-12">
+                    <div class="well">
+                        <h1>New Customer</h1>
+                        <p><strong>Register Account</strong></p>
+                        <p>By creating an account you will be able to shop faster, be up to date on an order's status, and keep track of the orders you have previously made.</p>
+                        <a href="@Url.Action("Register","User")" class="btn btn-primary">Continue</a>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-md-6 col-lg-6 col-xs-12">
+                    <div class="well">
+                        <h1>Returning Customer</h1>
+                        <p><strong>I am a returning customer</strong></p>
+                        @{
+                            if (loginError != null) {
+                                <div class="text-danger">@loginError</div>
+                            }
+                        }
+
+                        <form asp-controller="User" asp-action="Login" method="post" onSubmit="document.getElementById('submit').disabled=true;" enctype="multipart/form-data">
+                            <div class="form-group required">
+                                <label class="control-label" asp-for="Email">E-Mail</label>
+                                <input type="email" name="email" value="" asp-for="Email" placeholder="E-Mail" id="input-email" class="form-control" />
+                            </div>
+                            <div class="form-group required">
+                                <label class="control-label" asp-for="Password">Password</label>
+                                <input type="password" name="password" asp-for="Password" value="" placeholder="Password" id="input-password" class="form-control" />
+                            </div>
+                            <input id="submit" type="submit" value="Login" class="btn btn-primary" />
+                            <a class="btn btn-primary" href="@Url.Action("GoogleLogin", "User")">Log In With Google</a>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <aside id="column-right" class="col-sm-4 col-md-3 col-xs-12 hidden-xs">
+            <div class="list-group accolumn">
+
+
+                <h3><svg class="" width="20px" height="20px"> <use xlink:href="#acluser"></use> </svg>ACCOUNT SETTINGS</h3>
+                <a href="@Url.Action("Login", "User")" class="list-group-item">Login</a> 
+                <a href="@Url.Action("Register","User")" class="list-group-item">Register</a> 
+                <a href="@Url.Action("ForgotPassword","User")" class="list-group-item">Forgot Password</a>
+                <a href="@Url.Action("Detail","User")" class="list-group-item">My Account</a>
+
+            </div>
+        </aside>
+    </div>
+</div>
+
+
+
